@@ -34,7 +34,7 @@ When I’m not immersed in AI or music, I’m usually running, cycling, or pract
 ### Connect
 - Personal website   [patch0816.github.io](https://patch0816.github.io/)  
 - Google Scholar   [scholar.google.com/citations?user=w1QXiQkAAAAJ](https://scholar.google.com/citations?user=w1QXiQkAAAAJ)  
-- ORCID   [orcid.org](https://orcid.org/)  
+- ORCID   [orcid.org](https://orcid.org/my-orcid?orcid=0009-0003-1268-5529)  
 - LinkedIn   [linkedin.com/in/patrick-koller](https://www.linkedin.com/in/patrick-koller-1b171a114/)  
 
 Email: patrickkoller2028@u.northwestern.edu  
