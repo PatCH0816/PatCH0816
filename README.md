@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="left">
-  <a href="https://scholar.google.com/citations?user=w1QXiQkAAAAJ">
+  <a href="https://scholar.google.com/citations?user=jMiy9HQAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white">
   </a>
   <a href="https://orcid.org/0009-0003-1268-5529">
@@ -40,12 +40,14 @@ When I’m not immersed in AI or music, I’m usually running, cycling, or pract
 ---
 
 ### Connect
-- Personal website: [patch0816.github.io](https://patch0816.github.io/)  
-- Google Scholar: [scholar.google.com/citations?user=w1QXiQkAAAAJ](https://scholar.google.com/citations?user=w1QXiQkAAAAJ)  
-- ORCID: [orcid.org/0009-0003-1268-5529](https://orcid.org/0009-0003-1268-5529)  
-- LinkedIn: [linkedin.com/in/patrick-koller](https://www.linkedin.com/in/patrick-koller-1b171a114/)  
 
-Email: patrickkoller2028@u.northwestern.edu  
+Always open to collaboration, new ideas, and meaningful discussions across AI, science, and engineering.
+
+- 📧 patrickkoller2028@u.northwestern.edu  
+- 🌐 [Personal Website](https://patch0816.github.io/)  
+- 🔬 [Google Scholar](https://scholar.google.com/citations?user=jMiy9HQAAAAJ)  
+- 🧬 [ORCID](https://orcid.org/0009-0003-1268-5529)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrick-koller-1b171a114/)  
 
 Always open to collaboration, new ideas, and meaningful discussions across AI, science, and engineering.
 
