@@ -41,15 +41,11 @@ When I’m not immersed in AI or music, I’m usually running, cycling, or pract
 
 ### Connect
 
-Always open to collaboration, new ideas, and meaningful discussions across AI, science, and engineering.
+Always open to collaboration, new ideas, and meaningful discussions in AI, science, and engineering.
 
-- 📧 patrickkoller2028@u.northwestern.edu  
-- 🌐 [Personal Website](https://patch0816.github.io/)  
-- 🔬 [Google Scholar](https://scholar.google.com/citations?user=jMiy9HQAAAAJ)  
-- 🧬 [ORCID](https://orcid.org/0009-0003-1268-5529)  
+- 📧 [patrickkoller2028@u.northwestern.edu](mailto:patrickkoller2028@u.northwestern.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrick-koller-1b171a114/)  
-
-Always open to collaboration, new ideas, and meaningful discussions across AI, science, and engineering.
+- 🌐 [Personal Website](https://patch0816.github.io/)  
 
 ---
 
