@@ -4,8 +4,8 @@
   <a href="https://scholar.google.com/citations?user=jMiy9HQAAAAJ">
     <img height="28" src="https://img.shields.io/badge/Google%20Scholar-Patrick%20Koller-4285F4?logo=google-scholar&logoColor=white">
   </a>
-  <a href="https://patch0816.github.io">
-    <img height="28" src="https://img.shields.io/badge/Website-patch0816.github.io-0A66C2?logo=githubpages&logoColor=white">
+  <a href="https://patrick-koller.com">
+    <img height="28" src="https://img.shields.io/badge/Website-patrick--koller.com-0A66C2?logo=githubpages&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/patrick-koller-1b171a114/">
     <img height="28" src="https://img.shields.io/badge/LinkedIn-Patrick%20Koller-0A66C2?logo=linkedin&logoColor=white">
@@ -46,8 +46,7 @@ Always open to collaboration, new ideas, and meaningful discussions in AI, scien
 
 - 📧 [patrickkoller2028@u.northwestern.edu](mailto:patrickkoller2028@u.northwestern.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrick-koller-1b171a114/)  
-- 🌐 [Personal Website](https://patch0816.github.io/)  
-
+- 🌐 [Personal Website](https://patrick-koller.com)
 ---
 
 > “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke
